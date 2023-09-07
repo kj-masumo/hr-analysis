@@ -1,5 +1,5 @@
 # hr-analysis
-** Note: I am unable to share the code, the final report, and other specifics from this project as a part of an NDA **
+**Note: I am unable to share the code, the final report, and other specifics from this project as a part of an NDA**
 
 ## Intro
 This was a data science and analysis project that was designed to help Abt Associates, a global technology consulting firm, improve their hiring and talent retention, with a specific focus on diversity. This project was open-ended, and our team was given access to a variety of internal files and was encouraged to present on anything we discovered that we felt was useful. At the end of the project, we presented our findings to company management. I worked on this project with Varsha Gururaj, Aimee Oliver, Salim Shaikh, and Amol Soley.
